@@ -8,3 +8,5 @@ Carpeta con los datos utilizados para entrenar y efectuar las predicciones. Esto
 
 # Notebooks
 Jupyter Notebooks para visualziar datos, entrenar el modelo de ML y proceder con predicciones respecto a supervivencia en el desastre del Titanic.
+
+De momento en stand-by, retomaré en Julio 2022
